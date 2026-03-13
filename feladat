@@ -1,0 +1,13 @@
+<div class="card" onclick="this.classList.toggle('flipped')">
+            <div class="card-inner">
+                <div class="front">Hogyan oldunk meg egy egyenletet grafikusan? (pl. x² = 2x + 3)</div>
+                <div class="back">Külön ábrázoljuk a bal oldalt (parabola) és a jobb oldalt (egyenes). A megoldás a metszéspontok x-koordinátája.</div>
+            </div>
+        </div>
+
+        <div class="card" onclick="this.classList.toggle('flipped')">
+            <div class="card-inner">
+                <div class="front">Mikor van egy másodfokú egyenletnek 2, 1 vagy 0 megoldása?</div>
+                <div class="back">Attól függ, hány pontban metszi vagy érinti a parabola az egyenest (vagy az x-tengelyt).</div>
+            </div>
+        </div>
